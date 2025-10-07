@@ -15,7 +15,15 @@ La figura presenta el esquema creado en donde los puertos son:
 ## Desde el cliente
 ### Acceder desde el cliente al servidor postgres creado.
 # COMPLETAR CON UNA CAPTURA DEL LOGIN
+<img width="1770" height="785" alt="image" src="https://github.com/user-attachments/assets/02147832-3986-4b52-beff-888e9cabd768" />
+
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/cb4d0384-b17e-4add-8e3b-da6eb24c2412" />
+
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
+
+
+
+
 
 ## Desde el servidor postgresl
 ### Acceder al servidor
