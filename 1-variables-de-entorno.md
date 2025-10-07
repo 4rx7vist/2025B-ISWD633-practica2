@@ -59,7 +59,7 @@ A posterior se ingresa con el comando de
 ```
 # mysql -u root -p 
 ```
-para ingreesar al gestor de base de datos.
+para ingresar al gestor de base de datos.
 
 <img width="356" height="228" alt="image" src="https://github.com/user-attachments/assets/c435dd81-b33a-406d-bf58-201ace69d999" />
 
