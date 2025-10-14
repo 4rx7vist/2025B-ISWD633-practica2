@@ -44,5 +44,7 @@ Ingresar a: http://localhost:9300/
 recordar que a es el puerto que usó para el mapeo con wordpress
 
 ### ¿Qué ha sucedido, qué puede observar?
+El contenedr puede visualizar la pagina, de worpdress, sin embargo aunque haya existido el contenido de wordpress aun siguen las configuraciones debido a la base de datos con la información anterior (tema, configuraciones, etc.) aunque haya eliminado el contenedor de WordPress.
+
 # COMPLETAR
 
