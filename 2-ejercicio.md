@@ -39,5 +39,4 @@ Desde el contenedor de pg_postgres para la instancia de postgres, se visualiza d
 <img width="725" height="335" alt="image" src="https://github.com/user-attachments/assets/50d891f3-2969-4319-b194-ac067177affa" />
 
 
-# AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
 
